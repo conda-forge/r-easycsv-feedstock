@@ -1,11 +1,11 @@
-About r-easycsv
-===============
+About r-easycsv-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-easycsv-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/bogind/easycsv
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-easycsv-feedstock/blob/main/LICENSE.txt)
 
 Summary: Allows users to easily read multiple comma separated tables and create a data frame under the same name. Is able to read multiple comma separated tables from a local directory, a zip file or a zip file on a remote directory.
 
